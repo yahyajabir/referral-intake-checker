@@ -1,0 +1,6 @@
+referral_id,patient_id,specialty,referring_provider
+REF-001,P-1001,Cardiology,Dr Ahmed
+REF-002,P-1002,Neurology,
+REF-003,P-1003,,Dr Khan
+REF-004,P-1004,Cardiology,Dr Ali
+REF-005,P-1005,Orthopedics,Dr Shah
